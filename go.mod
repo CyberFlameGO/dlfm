@@ -11,6 +11,7 @@ require (
 
 require (
 	github.com/gorilla/websocket v1.4.0 // indirect
-	golang.org/x/crypto v0.0.0-20181030102418-4d3f4d9ffa16 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 )
